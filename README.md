@@ -24,3 +24,9 @@ _5._ Screen artifacts in the lower half of the screen - Wayland
 
 2. Bass speakers do not work at all:
     - Open /etc/modprobe.d/, create or edit snd.conf and copy the lines that are in my /etc/modprobe.d/.
+
+## Some links
+1. https://github.com/johnfanv2/LenovoLegionLinux
+2. https://github.com/PJungkamp/yoga9-linux
+3. https://wiki.archlinux.org/title/Lenovo_Yoga_Slim_9_(Intel)
+4. 
